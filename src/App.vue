@@ -9,8 +9,11 @@ export default{
 </script>
 
 <template>
-  <div class="container text-danger">
-    <LinkCard></LinkCard>
+  <div class="container">
+    <div class="row row-cols-6 m-5">
+      <LinkCard></LinkCard>
+    </div>
+
   </div>
 
   
